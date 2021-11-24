@@ -1,0 +1,33 @@
+* {
+    font-family: Impact, fantasy;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+body {
+    background-image: url("../gifs/90s_background_dog.gif");
+    background-color: black;
+    /* background-size: 1400px 700px; */
+    background-size: 250px 300px;
+    text-align: center;
+}
+
+.transparent {
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 50px;
+    border-style: outset;
+    padding: 0px;
+}
+
+ul {
+    list-style-position: inside;
+    list-style-type: none;
+    font-style: italic;
+    text-decoration: underline;
+    padding-right: 40px;
+}
+
+.song_artist {
+    font-style: italic;
+    font-size: 18pt;
+}
