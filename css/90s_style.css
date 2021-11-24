@@ -31,3 +31,8 @@ ul {
     font-style: italic;
     font-size: 18pt;
 }
+
+img {
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 25px;
+  }
